@@ -1,0 +1,1692 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>correspSearch API - Correspondence Descriptions from divers sources</title>
+                <respStmt>
+                    <resp>Data provider of the correspondence descriptions</resp>
+                    <name>
+                    Berlin-Brandenburg Academy of Sciences and Humanities
+                </name>
+                    <name>
+                    Berlin-Brandenburg Academy of Sciences and Humanities
+                </name>
+                    <name>
+                    Berlin-Brandenburgische Akademie der
+                        Wissenschaften
+                </name>
+                    <name>
+                    Internationale Louis Spohr Gesellschaft
+                        e.V.
+                </name>
+                    <name>
+                    Akademie der Wissenschaften und der Literatur Mainz
+                </name>
+                    <name>
+                    Akademie der Wissenschaften und der Literatur Mainz
+                </name>
+                    <name>
+               Berlin-Brandenburgische Akademie der Wissenschaften
+            </name>
+                    <name>
+               Berlin-Brandenburgische Akademie der
+                  Wissenschaften
+            </name>
+                    <name>
+                    Berlin-Brandenburgische Akademie der
+                        Wissenschaften
+                </name>
+                    <name>
+                    Public Domain
+                </name>
+                    <name>
+                    Berlin-Brandenburgische Akademie der Wissenschaften
+                </name>
+                    <name>Berlin-Brandenburgische Akademie der Wissenschaften</name>
+                    <name>
+                    Berlin-Brandenburgische Akademie der Wissenschaften
+                </name>
+                    <name>
+                    Berlin-Brandenburgische Akademie der Wissenschaften
+                </name>
+                    <name>
+                    Berlin-Brandenburg Academy of Sciences and Humanities
+                </name>
+                    <name>Jochen Strobel und Claudia Bamberg</name>
+                    <name>
+                    Berlin-Brandenburg Academy of Sciences and Humanities
+                </name>
+                    <name>
+                    Berlin-Brandenburgische Akademie der Wissenschaften
+                </name>
+                    <name>
+                    Berlin-Brandenburgische Akademie der Wissenschaften
+                </name>
+                    <name>
+                    Berlin-Brandenburg Academy of Sciences and Humanities
+                </name>
+                    <name>
+                    Berlin-Brandenburg Academy of Sciences and Humanities
+                </name>
+                    <name>
+     Berlin-Brandenburg Academy of Sciences and Humanities
+    </name>
+                    <name>
+                    Berlin-Brandenburgische Akademie der Wissenschaften
+                </name>
+                    <name>
+                    Berlin-Brandenburg Academy of Sciences and Humanities
+                </name>
+                    <name>
+                    Berlin-Brandenburg Academy of Sciences and Humanities
+                </name>
+                    <name>
+                    Berlin-Brandenburg Academy of Sciendes and Humanities
+                </name>
+                    <name>
+                    Akademievorhaben "Alexander von Humboldt auf Reisen - Wissenschaft aus der Bewegung"
+                </name>
+                    <name>
+                    Akademienvorhaben "Alexander von Humboldt auf Reisen – Wissenschaft aus der Bewegung
+                </name>
+                    <name>
+                    Berlin-Brandenburgische Akademie der Wissenschaften
+                </name>
+                    <name>
+                    Berlin-Brandenburgische Akademie der Wissenschaften
+                </name>
+                    <name>
+                    Berlin-Brandenburgische Akademie der Wissenschaften
+                </name>
+                    <name>
+                    Akademievorhaben "Alexander von Humboldt auf Reisen - Wissenschaft aus der Bewegung
+                </name>
+                    <name>
+                    Berlin-Brandenburgische Akademie der Wissenschaften
+                </name>
+                    <name>
+                    Berlin-Brandenburgische Akademie der Wissenschaften
+                </name>
+                    <name>
+                    Berlin-Brandenburg Academy of Sciences and Humanities
+                </name>
+                    <name>
+                    BBAW
+                </name>
+                    <name>
+                    Berlin-Brandenburg Academy of Sciences and Humanities
+                </name>
+                    <name>
+                    BBAW
+                </name>
+                    <name>
+                    Berlin-Brandenburgische Akademie der Wissenschaften
+                </name>
+                    <name>
+                    Berlin-Brandenburg Academy of Sciences and Humanities
+                </name>
+                    <name>
+                    Berlin-Brandenburgische Akademie der Wissenschaften
+                </name>
+                    <name>
+                    Berlin-Brandenburgische Akademie der Wissenschaften
+                </name>
+                    <name>
+					Akademie der Wissenschaften zu Göttingen
+				</name>
+                    <name>
+                    Berlin-Brandenburg Academy of Sciences and Humanities
+                </name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net//api/v1.1/tei-xml.xql?correspondent=http%3A%2F%2Fd-nb.info%2Fgnd%2F118554700&amp;startdate=&amp;enddate=&amp;place=&amp;available=&amp;cmiFile=&amp;publication=&amp;l=en</idno>
+                <date when="2021-06-08T11:44:36.189+02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="online" xml:id="de78591c-173b-4494-ac97-1f08cd0db481">
+                edition humboldt digital, hg. v. Ottmar Ette. Berlin-Brandenburgische Akademie der Wissenschaften, Berlin 2017-2020. <ref target="http://edition-humboldt.de">http://edition-humboldt.de</ref>
+                </bibl>
+                <bibl type="online" xml:id="b5a85c01-d337-4c21-9825-3b4d9ff49241">
+                Aloys Hirt. Briefwechsel und amtliche Schriften. Bearbeitet von Uta Motschmann. Berlin-Brandenburgische Akademie der Wissenschaften, Berlin 2016-2019.
+                <ref target="https://aloys-hirt.bbaw.de">https://aloys-hirt.bbaw.de</ref>
+                </bibl>
+                <bibl xml:id="b0a5f149-1e9a-4748-81e0-119087d11450" type="print"> Humboldt,
+                    Alexander von und Jean-Baptiste Boussingault: Briefwechsel. Herausgegeben von
+                    Ulrich Päßler und Thomas Schmuck unter Mitarbeit von Eberhard Knobloch, Beiträge
+                    zur Alexander-von-Humboldt-Forschung 41, Berlin, Boston: De Gruyter 2015.
+                </bibl>
+                <bibl type="online" xml:id="aeb92547-6265-4f06-92ed-a53e580cd445"> Spohr Briefe,
+                    herausgegeben im Auftrag der Internationalen Louis Spohr Gesellschaft e.V. von
+                    Karl Traugott Goldbach, Kassel 2016ff. <ref target="http://www.spohr-briefe.de/">http://www.spohr-briefe.de/</ref>
+                </bibl>
+                <bibl xml:id="SOE20" type="print">Samuel Thomas Soemmerring. Briefwechsel November 1792 – April 1805. Hrsg. u. erl. v. Franz Dumont. Basel
+                    2001 (= Samuel Thomas Soemmerring. Werke, Bd. 20).</bibl>
+                <bibl xml:id="SOE19II" type="print" sameAs="978-3-7965-1530-9">Samuel Thomas Soemmerring. Briefwechsel Januar 1787 – Oktober 1792. Hrsg. u. erl. v. Franz Dumont. Stuttgart 1998 (= Samuel Thomas Soemmerring. Werke, Bd. 19/II).</bibl>
+                <bibl type="print" xml:id="AvH-Varnhagen">
+               Briefe von Alexander von Humboldt an Varnhagen von Ense aus den Jahren 1827 bis 1858: nebst Auszügen aus Varnhagen's Tagebüchern, und Briefen von Varnhagen und Andern an Humboldt.
+               Hg. v. Ludmilla Assing. Brockhaus: Leipzig 1860. [Digitalisat online verfügbar unter <ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11098907-8">http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11098907-8</ref>]
+            </bibl>
+                <bibl xml:id="f6460573-60d3-4f21-9f9b-62535ef2c49a" type="print">Humboldt, Alexander von
+               (2009): Briefe aus Russland 1829. Herausgegeben von Eberhard Knobloch, Ingo Schwarz
+               und Christian Suckow. Berlin: Akademie Verlag (Beiträge zur
+               Alexander-von-Humboldt-Forschung, 30).</bibl>
+                <bibl xml:id="f03ae427-c314-46b9-82ff-e65923a2eab4" type="print"> Humboldt,
+                    Alexander von und Carl Ritter: Briefwechsel. Herausgegeben von Ulrich Päßler,
+                    Beiträge zur Alexander-von-Humboldt-Forschung 32, Berlin: Akademie Verlag
+                    2010.</bibl>
+                <bibl xml:id="HUMBOLDTFORSTER" type="print">Fünf Briefe der Gebrüder von Humboldt an Johann Reinhold Forster. Nebst einem Anhange. Hg. von Fritz Jonas. Berlin: L. Oehmigke's Verlag (R. Appelius), 1889. 
+                    [Digitalisat verfügbar unter <ref target="http://dx.doi.org/10.3931/e-rara-53952">http://dx.doi.org/10.3931/e-rara-53952</ref>]                    
+                </bibl>
+                <bibl xml:id="AVH_AMERIKA" type="print">Humboldt, Alexander von (1993): Briefe aus Amerika 1799-1804. Bearbeitet von Ulrike Moheit. Berlin: Akademie Verlag (Beiträge zur Alexander-von-Humboldt-Forschung, 16).</bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-13-Schwarz">Schwarz, Ingo (2006): Ein Humboldt-Brief in der
+                    Autographensammlung Lion Feuchtwangers. In: HiN - Humboldt im Netz.
+                    Internationale Zeitschrift für Humboldt-Studien (Potsdam - Berlin) VII, 13,
+                    Online verfügbar unter:
+                    <ref target="http://www.uni-potsdam.de/romanistik/hin/hin13/inhalt.htm">http://www.uni-potsdam.de/romanistik/hin/hin13/inhalt.htm</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-14-Jobst-Schwarz">Jobst, Anne; Schwarz, Ingo (2007): "Die Toten
+                    reiten schnelle." Literarische Zitate in Briefen von und an Alexander von
+                    Humboldt. In: HiN - Humboldt im Netz. Internationale Zeitschrift für
+                    Humboldt-Studien (Potsdam - Berlin) VIII, 14, Online verfügbar unter:
+                    <ref target="http://www.uni-potsdam.de/romanistik/hin/hin14/jobst-schwarz.htm">http://www.uni-potsdam.de/romanistik/hin/hin14/jobst-schwarz.htm</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-17-Jobst">Jobst, Anne (2008): „wie man die Gabe aplicirt“. Der
+                    Briefwechsel zwischen Humboldt und Ehrenberg, ein Beispiel. In: HiN - Humboldt
+                    im Netz. Internationale Zeitschrift für Humboldt-Studien (Potsdam - Berlin) IX,
+                    17, Online verfügbar unter:
+                    <ref target="http://www.uni-potsdam.de/romanistik/hin/hin17/jobst.htm">http://www.uni-potsdam.de/romanistik/hin/hin17/jobst.htm</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-18-Schwarz">Schwarz, Ingo (2009): Carl Gustav Carus und Alexander
+                    von Humboldt - Briefwechsel. In: HiN - Humboldt im Netz. Internationale
+                    Zeitschrift für Humboldt-Studien (Potsdam - Berlin) X, 18, Online verfügbar
+                    unter: <ref target="http://www.uni-potsdam.de/romanistik/hin/hin18/schwarz.htm">http://www.uni-potsdam.de/romanistik/hin/hin18/schwarz.htm</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-21-Schulz">Schulz, Carolin (2010): „Ein scharfsinniger Kopf aus
+                    Berlin!“. Ein unveröffentlichtes Empfehlungsschreiben für Leopold von Buch. In:
+                    HiN - Humboldt im Netz. Internationale Zeitschrift für Humboldt-Studien (Potsdam
+                    - Berlin) XI, 21, Online verfügbar unter:
+                    <ref target="http://www.uni-potsdam.de/romanistik/hin/hin21/schulz.htm">http://www.uni-potsdam.de/romanistik/hin/hin21/schulz.htm</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-22-Anisch">Anisch, Michael (2011): Bloß keine Tiziane! Poker um
+                    den Posten des Generaldirektors der Kunstmuseen. In: HiN - Humboldt im Netz.
+                    Internationale Zeitschrift für Humboldt-Studien (Potsdam - Berlin) XII, 22,
+                    Online verfügbar unter:
+                    <ref target="http://www.uni-potsdam.de/romanistik/hin/hin22/anisch.htm">http://www.uni-potsdam.de/romanistik/hin/hin22/anisch.htm</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-23-Reich">Reich, Karin (2011): Sternschnuppen und Erdmagnetismus,
+                    ein von Alexander von Humboldt und Carl Friedrich Gauß während der
+                    Universitätsfeierlichkeiten in Göttingen im September 1837 initiiertes Projekt.
+                    In: HiN - Humboldt im Netz. Internationale Zeitschrift für Humboldt-Studien
+                    (Potsdam - Berlin) XII, 23, Online verfügbar unter:
+                    <ref target="http://www.uni-potsdam.de/romanistik/hin/hin23/reich.htm">http://www.uni-potsdam.de/romanistik/hin/hin23/reich.htm</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-23-Knobloch-Schwarz">Knobloch, Eberhard; Schwarz, Ingo (2011): Die
+                    Feuer von Baku – ein wiederentdeckter Brief von Alexander von Humboldt. In: HiN
+                    - Humboldt im Netz. Internationale Zeitschrift für Humboldt-Studien (Potsdam -
+                    Berlin) XII, 23, Online verfügbar unter:
+                    <ref target="http://www.uni-potsdam.de/romanistik/hin/hin23/knobloch_schwarz.htm">http://www.uni-potsdam.de/romanistik/hin/hin23/knobloch_schwarz.htm</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-24-Schmuck">Schmuck, Thomas (2012): Der Briefwechsel zwischen
+                    Alexander von Humboldt und Karl Ernst von Baer. In: HiN - Humboldt im Netz.
+                    Internationale Zeitschrift für Humboldt-Studien (Potsdam - Berlin) XIII, 24,
+                    Online verfügbar unter:
+                    <ref target="http://www.uni-potsdam.de/romanistik/hin/hin24/schmuck.htm">http://www.uni-potsdam.de/romanistik/hin/hin24/schmuck.htm</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-25-Andress">Andress, Reinhard (2012): Ein kurzer Brief Humboldts
+                    an den Hofmarschall. In: HiN - Humboldt im Netz. Internationale Zeitschrift für
+                    Humboldt-Studien (Potsdam - Berlin) XIII, 25, Online verfügbar unter:
+                    <ref target="http://www.uni-potsdam.de/romanistik/hin/hin25/andress.htm">http://www.uni-potsdam.de/romanistik/hin/hin25/andress.htm</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-26-Moennich">Mönnich, Katja (2013): Eine Freundschaft, die
+                    Jahrzehnte überdauerte! Ein unveröffentlichter Brief Alexander von Humboldts an
+                    seinen langjährigen Freund Johann Karl Freiesleben. In: HiN - Humboldt im Netz.
+                    Internationale Zeitschrift für Humboldt-Studien (Potsdam - Berlin) XIV, 26, S.
+                    6-11. Online verfügbar unter
+                    <ref target="https://www.uni-potsdam.de/romanistik/hin/hin26/moennich.htm">http://www.uni-potsdam.de/u/romanistik/humboldt/hin/hin26/moennich.htm</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-27-Schmuck">Schmuck, Thomas (2013): Tod in den Anden. Ein Brief
+                    Francis Halls an Humboldt 1831 und seine historischen und politischen
+                    Hintergründe. In: HiN - Humboldt im Netz. Internationale Zeitschrift für
+                    Humboldt-Studien (Potsdam – Berlin) XIV, 27, S. 55-68. Online verfügbar unter
+                    <ref target="http://www.uni-potsdam.de/u/romanistik/humboldt/hin/hin27/schmuck.htm">http://www.uni-potsdam.de/u/romanistik/humboldt/hin/hin27/schmuck.htm</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-28-Knobloch">Knobloch, Eberhard (2014): Der Briefwechsel zwischen
+                    Alexander von Humboldt und Charles Lyell: Ein Überblick. In: HiN - Humboldt im
+                    Netz. Internationale Zeitschrift für Humboldt-Studien (Potsdam - Berlin) XV, 28,
+                    S. 7-13. Online verfügbar unter
+                    <ref target="http://www.uni-potsdam.de/u/romanistik/humboldt/hin/hin28/knobloch.htm">http://www.uni-potsdam.de/u/romanistik/humboldt/hin/hin28/knobloch.htm</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-28-Treuber">Treuber, Konstantin (2014): „Warum ich nicht
+                    Diorit-Trachyt sagen soll.“ Ein geologischer Brief Gustav Roses an Alexander von
+                    Humboldt. In: HiN - Humboldt im Netz. Internationale Zeitschrift für
+                    Humboldt-Studien (Potsdam - Berlin) XV, 28, S. 46-58. Online verfügbar unter
+                    <ref target="http://www.uni-potsdam.de/u/romanistik/humboldt/hin/hin28/treuber.htm">http://www.uni-potsdam.de/u/romanistik/humboldt/hin/hin28/treuber.htm</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-29-Jobst">Jobst, Anne (2014): Neue Briefe von Christian Gottfried
+                    Ehrenberg an Alexander von Humboldt. In: HiN - Humboldt im Netz. Internationale
+                    Zeitschrift für Humboldt-Studien (Potsdam - Berlin) XV, 29, S. 73-81. Online
+                    verfügbar unter: <ref target="http://www.uni-potsdam.de/romanistik/hin/hin29/jobst.htm">http://www.uni-potsdam.de/romanistik/hin/hin29/jobst.htm</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-29-Paessler">Päßler, Ulrich (2014): Preußens Mann in Washington.
+                    Fünf Briefe Friedrich von Gerolts an Alexander von Humboldt (1858/1859). In: HiN
+                    - Humboldt im Netz. Internationale Zeitschrift für Humboldt-Studien (Potsdam -
+                    Berlin) XV, 29, S. 170-181. Online verfügbar unter:
+                    <ref target="http://www.uni-potsdam.de/romanistik/hin/hin29/paessler.htm">http://www.uni-potsdam.de/romanistik/hin/hin29/paessler.htm</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-30-Schwarz">Schwarz, Ingo (2015): „Uebrigens verbleibe ich mit
+                    besonderer Werthschätzung Euer gnädiger König“. Zum Briefwechsel Alexander von
+                    Humboldts mit Friedrich Wilhelm III. im September 1804. In: HiN - Humboldt im
+                    Netz. Internationale Zeitschrift für Humboldt-Studien (Potsdam - Berlin) XVI,
+                    30, S. 7-12. Online verfügbar unter
+                    <ref target="http://www.uni-potsdam.de/romanistik/hin/hin30/schwarz.htm">http://www.uni-potsdam.de/romanistik/hin/hin30/schwarz.htm</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-31-Schwarz">
+                    Schwarz, Ingo (2015): „etwas hervorzubringen, was meines Königs und meines Vaterlandes werth sein kann“ – Briefe von Alexander von Humboldt an Friedrich Wilhelm III., 1805.
+                    In: HiN - Humboldt im Netz. Internationale Zeitschrift für Humboldt-Studien (Potsdam - Berlin) XVI, 31, S. 3-18. Online verfügbar unter:
+                    <ref target="http://dx.doi.org/10.18443/218">http://dx.doi.org/10.18443/218</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-32-Schwarz">
+                    Schwarz, Ingo (2016): Opfer für die Wissenschaften „in dem Drange wichtiger öffentlicher Begebenheiten“. Briefe von Alexander von Humboldt an Friedrich Wilhelm III., 1806.
+                    In: HiN - Humboldt im Netz. Internationale Zeitschrift für Humboldt-Studien (Potsdam - Berlin) XVII, 32, S. 3-15. Online verfügbar unter:
+                    <ref target="http://dx.doi.org/10.18443/231">http://dx.doi.org/10.18443/231</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-32-Andress">
+                    Andress, Reinhard (2016): Eine Bitte an Thomas Jefferson um Tabaksamen und Tabak: ein unveröffentlichter Brief Alexander von Humboldts.
+                    In: HiN - Humboldt im Netz. Internationale Zeitschrift für Humboldt-Studien (Potsdam - Berlin) XVII, 32, S. 16-26. Online verfügbar unter:
+                    <ref target="http://dx.doi.org/10.18443/229">http://dx.doi.org/10.18443/229</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-32-Puig-Samper">
+                    Puig-Samper, Miguel Ángel / Garrido, Elisa  (2016): The presentation of the results of Alexander von Humboldt's voyage to Carlos IV
+                    In: HiN - Humboldt im Netz. Internationale Zeitschrift für Humboldt-Studien (Potsdam - Berlin) XVII, 32, S. 50-62. Online verfügbar unter:
+                    <ref target="http://dx.doi.org/10.18443/227">http://dx.doi.org/10.18443/227</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-33-Andress">
+                    Andress, Reinhard (2016): Ein unveröffentlichter Brief Alexander von Humboldts an den Buchhändler Jean-Georges Treuttel.
+                    In: HiN - Humboldt im Netz. Internationale Zeitschrift für Humboldt-Studien (Potsdam - Berlin) XVII, 33, S. 3-9. Online verfügbar unter:
+                    <ref target="http://dx.doi.org/10.18443/228">http://dx.doi.org/10.18443/228</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-33-Reich">
+                    Reich, Karin / Roussanova, Elena: Der Briefwechsel zwischen Karl Kreil und Alexander von Humboldt, ein wichtiger Beitrag zur Geschichte des Erdmagnetismus.  
+                    In: HiN - Humboldt im Netz. Internationale Zeitschrift für Humboldt-Studien (Potsdam - Berlin) XVII, 33, S. 50-71. Online verfügbar unter:
+                    <ref target="http://dx.doi.org/10.18443/228">http://dx.doi.org/10.18443/228</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-37-Zaun">
+                    Zaun, Jill Rabea (2018): Eduard Hildebrandts „Wunderbild“ in einem Brief von Alexander von Humboldt an 
+                    Henriette Mendelssohn, geb. Meyer. In: HiN - Humboldt im Netz. Internationale Zeitschrift für Humboldt-Studien (Potsdam - Berlin) 
+                    XIX, 37, S. 5-13. Online verfügbar unter: <ref target="https://doi.org/10.18443/278">https://doi.org/10.18443/278</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-39-Schwarz">
+                    Schwarz, Ingo (2019): Bernhard von Lepels Ode An Humboldt. Ein Beitrag zum Theodor-Fontane-Jahr 2019. In: 
+                    HiN - Humboldt Im Netz. Internationale Zeitschrift für Humboldt-Studien, XX, 39, 29-43. <ref target="https://doi.org/10.18443/286">https://doi.org/10.18443/286</ref>
+                </bibl>
+                <bibl type="online" subtype="publication" xml:id="HiN-40-Knobloch">
+                    Knobloch, Eberhard; Päßler, Ulrich (2020): Ein unbekannter Brief Alexander von Humboldts an Friedrich August Wolf (1817). 
+                    HiN - Humboldt Im Netz. Internationale Zeitschrift für Humboldt-Studien, XXI, 40, 5-14. <ref target="https://doi.org/10.18443/295">https://doi.org/10.18443/295</ref>
+                </bibl>
+                <bibl type="print" xml:id="u560aaae-32b5-4574-9e02-89ed08fa99d4">Humboldt, Alexander von (2011): Alexander von Humboldt - August Böckh: Briefwechsel. Herausgegeben von Romy Werther. (Beiträge zur Alexander-von-Humboldt-Forschung 33). Akademie Verlag: Berlin.</bibl>
+                <bibl type="print" xml:id="g9c57d67-bba7-48d6-b125-882d87dabeb7">Humboldt, Alexander von (2004): Alexander von Humboldt und die Vereinigten Staaten von Amerika. Briefwechsel. Herausgegeben von Ingo Schwarz, Beiträge zur Alexander-von-Humboldt-Forschung 19, Berlin: Akademie Verlag.</bibl>
+                <bibl type="print" xml:id="e1e7187d-050f-44aa-9cdc-f60aaaa998d0">Humboldt, Alexander von und Johann Franz Encke: Briefwechsel. Herausgegeben von Oliver Schwarz und Ingo Schwarz unter Mitarbeit von Eberhard Knobloch, Bd. 37, Beiträge zur Alexander-von-Humboldt-Forschung, Berlin: Akademie Verlag 2013</bibl>
+                <bibl type="hybrid" xml:id="AWS-Online">Digitale Edition der Korrespondenz August Wilhelm Schlegels<ref target="https://august-wilhelm-schlegel.de/briefedigital/">https://august-wilhelm-schlegel.de/briefedigital/</ref>
+                </bibl>
+                <bibl type="print" xml:id="ea3dfdba-7f78-4147-85ba-c9175e25ba99">Humboldt, Alexander von; Spiker, Samuel Heinrich (2007): Briefwechsel. Herausgegeben von Ingo Schwarz unter Mitarbeit von Eberhard Knobloch. Berlin: Akademie Verlag (Beiträge zur Alexander-von-Humboldt-Forschung, 27).</bibl>
+                <bibl type="print" xml:id="l60b87ed-3466-4019-b31a-1aad6463239f">Humboldt, Alexander von; Mendelssohn, Familie (2011): Briefwechsel. Herausgegeben von Sebastian Panwitz und Ingo Schwarz unter Mitarbeit von Eberhard Knobloch. Berlin: Akademie Verlag (Beiträge zur Alexander-von-Humboldt-Forschung, 34).</bibl>
+                <bibl type="hybrid" xml:id="tb500d7b-82cb-4d11-accb-d2215ee14631">Briefe Alexander v. Humboldt's an Ignaz v. Olfers Generaldirektor der Kgl. Museen in Berlin, hg. von F.W.M. v. Olfers, Königsberg 1913. <ref target="https://gdz.sub.uni-goettingen.de/id/PPN897762568">https://gdz.sub.uni-goettingen.de/id/PPN897762568</ref>
+                </bibl>
+                <bibl type="print" xml:id="ac4c55df-a916-406e-b3f8-f6170695861f">Humboldt, Alexander von; Cotta, Johann Friedrich von; Cotta, Johann Georg von (2009): Briefwechsel. Hrsg. von Ulrike Leitner unter Mitarbeit von Eberhard Knobloch. Berlin: Akademie Verlag (Beiträge zur Alexander-von-Humboldt-Forschung, 29).</bibl>
+                <bibl type="print" xml:id="m23834e7-17eb-473a-8349-69bb665e7a23">Humboldt, Alexander von; Friedrich Wilhelm IV. (2013): Briefwechsel. Herausgegeben von Ulrike Leitner unter Mitarbeit von Eberhard Knobloch. Berlin: Akademie Verlag (Beiträge zur Alexander-von-Humboldt-Forschung, 39).</bibl>
+                <bibl type="print" xml:id="ddc11d11-a0af-41aa-828c-f9c8613f76b2">Humboldt, Alexander von: Die
+     Jugendbriefe Alexander von Humboldts 1787-1799. Herausgegeben und erläutert von Ilse Jahn und
+     Fritz G. Lange. Berlin: Akademie-Verlag 1973 (Beiträge zur Alexander-von-Humboldt-Forschung,
+     2).</bibl>
+                <bibl type="print" xml:id="bc9e2cdc-6def-475b-9d77-5dcd37ebe652">Humboldt, Alexander von (2006): Briefe von Alexander von Humboldt an Christian Carl Josias Bunsen. Neu ediert von Ingo Schwarz. Berlin: Rohrwall.</bibl>
+                <bibl type="print" xml:id="dcef3c5d-fda7-4651-bad8-23f245fb5f69">Humboldt, Alexander von und Johann David Erdmann Preuß: Briefwechsel. Herausgegeben von Ulrich Päßler und Anna Senft. Unter Mitarbeit von Anna Dietrich, Andreas Henseler, Jens Herold, Anne MacKinney, Laura Nippel, Daniel Stienen und Julia Weidmann, Bd. 43, Beiträge zur Alexander-von-Humboldt-Forschung, Berlin: De Gruyter 2015.</bibl>
+                <bibl type="print" xml:id="m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b">Humboldt, Alexander von und Carl Gustav Jacob Jacobi: Briefwechsel. Herausgegeben von Herbert Pieper, Bd. 11, Beiträge zur Alexander-von-Humboldt-Forschung, Berlin: Akademie Verlag 1987.</bibl>
+                <bibl type="print" xml:id="t758f6be-98e0-4873-be8e-3b9ec222dcb7">Humboldt, Alexander von und Friedrich Wilhelm Bessel: Briefwechsel. Herausgegeben von Hans-Joachim Felber, Beiträge zur Alexander-von-Humboldt-Forschung 10, Berlin: Akademie Verlag 1994.</bibl>
+                <bibl type="print" xml:id="b58eeeb1-db55-48da-9479-67e3ac66237e">Biermann, Kurt-R. (1982): Briefwechsel zwischen Alexander von Humboldt und Peter Gustav Lejeune Dirichlet. Berlin: Akademie-Verlag.</bibl>
+                <bibl type="print" xml:id="b35aa283-08e3-422f-be0b-cd8fb63c6662">Du Vinage, Renate (2005): Bibliothekar der Könige. Friedrich Wilhelm IV. und Wilhelm I. Die Lebensgeschichte von Charles Duvinage (1804-1871). Norderstedt: Books on Demand.</bibl>
+                <bibl type="print" xml:id="ocdb7041-c677-48a2-9a42-d96be3dbf5a3">Humboldt, Alexander von (1985): Vier Jahrzehnte Wissenschaftsförderung. Briefe an das preußische Kultusministerium 1818-1858. Herausgegeben von Kurt-R. Biermann. Berlin: Akademie Verlag (Beiträge zur Alexander-von-Humboldt-Forschung, 14).</bibl>
+                <bibl type="print" xml:id="rf5b23b9-1f23-4a0e-a386-e6355f0f47e4">Humboldt, Alexander von und Emil du Bois-Reymond: Briefwechsel. Herausgegeben von Ingo Schwarz und Klaus Wenig, Beiträge zur Alexander-von-Humboldt-Forschung 22, Berlin: Akademie Verlag 1997.</bibl>
+                <bibl type="print" xml:id="y31f5f00-f92c-473a-a347-ca33c5e2f123">Biermann, Kurt-R. (1979): Briefwechsel zwischen Alexander von Humboldt und Heinrich Christian Schumacher. Zum 200. Geburtstag von H.C. Schumacher herausgegeben von Kurt-R. Biermann. Berlin: Akademie-Verlag</bibl>
+                <bibl type="print" xml:id="u095ef1f-9946-45da-b799-0cfb0a6ce37e">Biermann, Kurt-R. (Hrsg.) (1977): Briefwechsel zwischen Alexander von Humboldt und Carl Friedrich Gauss. Berlin: Akademie-Verlag</bibl>
+                <bibl type="print" xml:id="v4f60e08-7882-42a8-a661-0e439f14ed8a">Hossard, Nicolas (2004): Alexander von Humboldt &amp; Aimé Bonpland. Correspondance 1805-1858. Paris: L' Harmattan</bibl>
+                <bibl type="print" xml:id="o8f2a953-6508-4a54-ac7b-54b59f74c872">Julius Klaproth (1783 - 1835). Briefwechsel mit Gelehrten, großenteils aus dem Akademiearchiv in St. Petersburg. Hg. von Hartmut Walravens. (Orientalistik-Bibliographien und Dokumentationen 18) Wiesbaden, 2002. </bibl>
+                <bibl type="print" xml:id="mef9a032-e7e6-469b-ab50-2e41998f8366">Une amitié de savants au siècle dernier: Alexander von Humboldt et Achille Valenciennes (Correspondance inédite). Hg. v. Jean Theodorides. Paris: 1965.</bibl>
+                <bibl type="hybrid" xml:id="p323e9c9-373f-45ea-b653-69580dc345e6">Im Ural und Altai. Briefwechsel zwischen Alexander von Humboldt und Graf Georg von Cancrin aus den Jahren 1827-1832, Leipzig 1869. <ref target="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10467085-1">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10467085-1</ref>
+                </bibl>
+                <bibl type="print" xml:id="ma73b821-a833-4f41-acc4-2855ed362dc4">Alexandre de Humboldt, Lettres à Claire de Duras (1814-1828), correspondance inédite établie, présentée et annotée par Marie-Bénédicte Diethelm, préface de Marc Fumaroli. Paris: Manucius, 2016.</bibl>
+                <bibl type="hybrid" xml:id="k0361f6a-8376-49ad-987e-a36c33e5a2d0">Correspondance d'Alexandre de Humboldt avec François Arago : (1809-1853) publiée avec une préface et des notes / par le Dr E.-T. Hamy. Librairie orientale et américaine, E. Guilmoto Editeur. Paris 1907.<ref target="http://jubilotheque.upmc.fr/ead.html?id=BG_000015_001">http://jubilotheque.upmc.fr/ead.html?id=BG_000015_001</ref>
+                </bibl>
+                <bibl type="print" xml:id="u5db0ce7-8ab5-440a-b86d-01f730d06052">Julius Klaproth (1783–1835): Briefe und Dokumente  Hg. von Hartmut Walravens (Orientalistik-Bibliographien und Dokumentationen 4). Wiesbaden 1999.</bibl>
+                <bibl type="print" xml:id="x04eed00-43a2-4e12-809c-abf718c60408">Weltmann und Hofkünstler: Alexander von Humboldts Briefe an Christian Daniel Rauch. Kommentierte Edition. Hrsg. v. Bernhard Maaz. München und Berlin 2007.</bibl>
+                <bibl type="online" xml:id="v0e42ba5-4197-4158-a8df-b1468fa11d46">Briefwechsel Alexander von Humboldt's mit Heinrich Berghaus : aus den Jahren 1825 bis 1858. Bd. 1 von 3 Bde. Hermann Costenoble:  Leipzig 1863. <ref target="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10620862-1">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10620862-1</ref>
+                </bibl>
+                <bibl type="online" xml:id="ua3d6814-1578-481c-8bf2-8552c65097bf">Briefwechsel Alexander von Humboldt's mit Heinrich Berghaus : aus den Jahren 1825 bis 1858. Bd. 2 von 3 Bde. Hermann Costenoble:  Jena 1869. <ref target="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11344365-1">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11344365-1</ref>
+                </bibl>
+                <bibl type="online" xml:id="d8495d9a-7d0a-408c-8197-b67df12bd5fa">Briefwechsel Alexander von Humboldt's mit Heinrich Berghaus : aus den Jahren 1825 bis 1858. Bd. 3 von 3 Bde. Hermann Costenoble:  Jena 1869. <ref target="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11344366-7">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11344366-7</ref>
+                </bibl>
+                <bibl type="print" xml:id="jff16ddf-5c59-47ab-9e81-07379b83108a">Alexander von Humboldt und Friedrich Argelander: Briefwechsel. Herausgegeben von Ingo Schwarz und Oliver Schwarz unter Mitarbeit von Eberhard Knobloch. Berlin 2019. (Beiträge zur Alexander-von-Humboldt-Forschung. Band 46.)</bibl>
+                <bibl type="online" xml:id="b19a0dfa-02c5-4e70-b1fb-769e5a40b2ba">Der komplette Briefwechsel von Carl Friedrich Gauß, hg. von der Akademie der Wissenschaften zu Göttingen <ref target="https://gauss.adw-goe.de/">https://gauss.adw-goe.de/</ref>
+				</bibl>
+                <bibl type="online" xml:id="e75f7415-abad-4990-8509-e2c1e138dea8">
+                            Wilhelm von Humboldt: Sprachwissenschaftliche Korrespondenz
+                            <ref target="https://wvh-briefe.bbaw.de">https://wvh-briefe.bbaw.de</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="1">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2925535">Frankfurt/Oder</placeName>
+     <date when="1787-10-14"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://edition-humboldt.de/H0003200">Ephraim Beer</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="2">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2925535">Frankfurt/Oder</placeName>
+     <date when="1787-11"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://edition-humboldt.de/H0003200">Ephraim Beer</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="3">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2925535">Frankfurt/Oder</placeName>
+     <date when="1787-12-19"/>
+    </correspAction>
+    <correspAction type="received"> 
+     <persName ref="http://d-nb.info/gnd/119463288">David Friedländer</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="14">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date from="1788-03 " to="1789-04"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName>Unbekannter Geheimrat</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="4">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date from="1788-05-08 " to="1788-05-10"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117218421">Wilhelm Gabriel Wegener</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="5">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date from="1788-06-09 " to="1788-06-26"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117218421">Wilhelm Gabriel Wegener</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="6">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1788-07-03"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117218421">Wilhelm Gabriel Wegener</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="7">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1788-07-10"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/116796634">Benoni Friedländer</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="8">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1788-08-12"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117218421">Wilhelm Gabriel Wegener</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="9">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2846616">Ringenwalde</placeName>
+     <date when="1788-09-04"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118550152">Henriette Herz</persName>
+    </correspAction>
+    <!--place xml:id="ed_tbr_kqz_zcb"-->
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="10">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1788-09-29"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117218421">Wilhelm Gabriel Wegener</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="11">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1788-10-12"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117218421">Wilhelm Gabriel Wegener</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="12">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1788-12-12"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117218421">Wilhelm Gabriel Wegener</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="13">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1788-12-27"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117218421">Wilhelm Gabriel Wegener</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="32">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <date notBefore="1789-01" notAfter="1790-01-10"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="15">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date from="1789-01-27 " to="1789-01-28"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117218421">Wilhelm Gabriel Wegener</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="17">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1789-02"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/116170972">Alexander Burggraf zu
+      Dohna-Schlobitten</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="16">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date from="1789-02-24 " to="1789-02-27"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117218421">Wilhelm Gabriel Wegener</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="18">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1789-03-27"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117218421">Wilhelm Gabriel Wegener</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="19">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+     <date when="1789-04-28"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118550152">Henriette Herz</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="21">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+     <date notBefore="1789-04-28" notAfter="1789-05-03"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117218421">Wilhelm Gabriel Wegener</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="20">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+     <date when="1789-05-01"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118518658">Joachim Heinrich Campe</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="22">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+     <date when="1789-05-11"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/116140348">Johann Friedrich Pfaff</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="23">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+     <date when="1789-08-05"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/104197102">Johann Friedrich Zöllner</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="24">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+     <date when="1789-08-08"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118805371">Paul Usteri</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="25">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+     <date when="1789-08-11"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/116551445">Ernst Gottfried Fischer</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="26">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+     <date from="1789-08-16 " to="1789-08-17"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117218421">Wilhelm Gabriel Wegener</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="27">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+     <date when="1789-11-04"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118805371">Paul Usteri</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="28">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+     <date when="1789-11-11"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="29">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+     <date when="1789-11-28"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118805371">Paul Usteri</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="30">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+     <date when="1789-12-05"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118518658">Johann Heinrich Campe</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="31">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <date notBefore="1790-01-01" notAfter="1790-01-07"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118554719">Caroline von Humboldt</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="33">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+     <date when="1790-01-10"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117218421">Wilhelm Gabriel Wegener</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="34">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+     <date when="1790-01-26"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118518658">Joachim Heinrich Campe</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="35">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <date notBefore="1790-02-01" notAfter="1790-02-12"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118554719">Caroline von Humboldt</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="36">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+     <date when="1790-02-14"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118518658">Joachim Heinrich Campe</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="37">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+     <date when="1790-02-21"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118518658">Joachim Heinrich Campe</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="38">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+     <date when="1790-03-12"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118805371">Paul Usteri</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="41">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <date notBefore="1790-03-13" notAfter="1790-03-20"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118554719">Caroline von Humboldt</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="39">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+     <date when="1790-03-17"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118518658">Joachim Heinrich Campe</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="40">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+     <date when="1790-03-17"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118805371">Paul Usteri</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="42">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <date notBefore="1790-03-26" notAfter="1790-04-02"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="43">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName>Leiden</placeName>
+     <date when="1790-05-03"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://viaf.org/viaf/306341054">Jan van Geuns</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="44">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2751285">Maassluis</placeName>
+     <date when="1790-05-04"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+    </correspAction>
+    <!-- <place xml:id="ed_xhg_kyz_zcb">-->
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="45">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2643743">London</placeName>
+     <date when="1790-06-01"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="46">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2653543">Castleton</placeName>
+     <date from="1790-06-15 " to="1790-06-20"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117218421">Wilhelm Gabriel Wegener</persName>
+    </correspAction>
+    <!--2 Orte-->
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="47">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <date when="1790-06-20"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="48">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2643743">London</placeName>
+     <date when="1790-06-27"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118805371">Paul Usteri</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="50">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date notBefore="1790-07" notAfter="1791-04"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://edition-humboldt.de/H0013839">Archibald Maclean</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="49">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+     <date when="1790-07-25"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118767089">Abraham Gottlob Werner</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="51">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date notBefore="1790-08" notAfter="1790-10"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/116725346">Lorenz von Crell</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="70">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date notBefore="1790-08" notAfter="1791-04"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://edition-humboldt.de/H0013839">Archibald Maclean</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="69a">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date notBefore="1790-09-01" notAfter="1791-03-30"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://edition-humboldt.de/H0013839">Archibald Maclean</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="52">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date when="1790-09-07"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/116061146">Dietrich Ludwig Gustav Karsten</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="53">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date when="1790-09-10"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118550756">Friedrich Anton Freiherr von Heinitz</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="54">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date when="1790-09-23"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117218421">Wilhelm Gabriel Wegener</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#HUMBOLDTFORSTER" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1790-09-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="55">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date when="1790-09-24"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="56">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date when="1790-10-03"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="57">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date when="1790-10-18"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118808818">Sir Joseph Banks</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="58">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118808818">Sir Joseph Banks</persName>
+     <placeName ref="http://www.geonames.org/2643743">London</placeName>
+     <date when="1790-11-17"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="59">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date when="1790-12-13"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118767089">Abraham Gottlob Werner</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="60">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554719">Caroline von Humboldt</persName>
+
+     <date when="1790-12-20"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#HUMBOLDTFORSTER" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1790-12-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="61">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date when="1790-12-22"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="62">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date when="1791-01-03"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118556312">Friedrich Heinrich Jacobi</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="63">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554719">Caroline von Humboldt</persName>
+     <date when="1791-01-15"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="64">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date when="1791-01-25"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118556312">Friedrich Heinrich Jacobi</persName>
+    </correspAction>
+
+   </correspDesc>
+            <tei:correspDesc xmlns:tei="http://www.tei-c.org/ns/1.0" source="#de78591c-173b-4494-ac97-1f08cd0db481" ref="http://edition-humboldt.de/H0002656">
+                <tei:correspAction type="sent">
+                    <tei:persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</tei:persName>
+                    <tei:placeName ref="http://www.geonames.org/2911298">Hamburg</tei:placeName>
+                    <date from="1791-01-28" to="1791-02-20" cert="high"/>
+                </tei:correspAction>
+                <tei:correspAction type="received">
+                    <tei:persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</tei:persName>
+                </tei:correspAction>
+            </tei:correspDesc>
+            <correspDesc key="586" source="#SOE19II" corresp="http://kalliope-verbund.info/DE-611-HS-461600">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date from="1791-01-28" to="1791-02-20">28.1.-20.2.1791</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas von Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="65">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date from="1791-01-28" to="1791-02-20"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas von Sömmering</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="66">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date when="1791-02-12"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/119036495">Carl Peter Thunberg</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="67">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date when="1791-02-22"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="68">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date when="1791-03-15"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118805371">Paul Usteri</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="69">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date when="1791-03-15"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/116647868">Christoph Girtanner</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="74">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date when="1791-04-01"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/116647868">Christoph Girtanner</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="75">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date when="1791-04-01"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://edition-humboldt.de/H0013839">Archibald Maclean</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="76">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2919290">Escheburg</placeName>
+     <date notBefore="1791-04-01" notAfter="1791-04-26"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117151319">Paul Christian Wattenbach</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="71">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date when="1791-04-02"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118805371">Paul Usteri</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="72">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date when="1791-04-05"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118518658">Joachim Heinrich Campe</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="73">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+     <date when="1791-04-06"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118556312">Friedrich Heinrich Jacobi</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="80">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+     <date when="1791-05"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117365785">Georg Adolph Suckow</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="77">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+     <date when="1791-05-07"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117151319">Paul Christian Wattenbach</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="78">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+     <date when="1791-05-14"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118550756">Friedrich Anton Freiherr von Heinitz</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="79">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118550756">Friedrich Anton Freiherr von Heinitz</persName>
+     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+     <date when="1791-05-31"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="81">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+     <date when="1791-06-01"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118825356">Johann Albert Heinrich Reimarus</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="82">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+     <date when="1791-06-14"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://www.geonames.org/2925192">Oberbergamt Freiberg</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="83">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+     <date when="1791-06-14"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/104260106">Carl Freiesleben</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="84">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+     <date when="1791-06-23"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/116961082">Johann Leopold Neumann</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="86">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+     <date notBefore="1791-08-01" notAfter="1791-12"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/116725346">Lorenz von Crell</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="85">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+     <date when="1791-08-25"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/116061146">Dietrich Ludwig Gustav Karsten</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="92">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+     <date notBefore="1791-09-01" notAfter="1790-11-30"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118805371">Paul Usteri</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="87">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+     <date when="1791-09-22"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118805371">Paul Usteri</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="88">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+     <date when="1791-10-14"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://edition-humboldt.de/H0013839">Archibald Maclean</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="89">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+     <date when="1791-10-29"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/116961082">Johann Leopold Neumann</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="90">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+     <date when="1791-10-29"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://edition-humboldt.de/H0013839">Archibald Maclean</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="91">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://d-nb.info/gnd/116880481">Freiberg</placeName>
+     <date when="1791-11-26"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/116061146">Dietrich Ludwig Gustav Karsten</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="94">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+     <date when="1792-01"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/116653531">Jean-Claudede Lamétherie</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="95">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+     <date from="1792-01 " to="1793-03"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/116725346">Lorenz von Crell</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="93">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+     <date from="1792-01-07 " to="1792-01-10"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118805371">Paul Usteri</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="96">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+     <date when="1792-02-18"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117151319">Paul Christian Wattenbach</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="96a">
+    <correspAction type="sent">
+     <persName ref="http://edition-humboldt.de/H0000528">Bergwerks- und
+      Hütten-Departement</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1792-02-29"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="97">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1792-03-02"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/104260106">Carl Freiesleben</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="98">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1792-03-07"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/104260106">Carl Freiesleben</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="99">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1792-03-19"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/104260106">Carl Freiesleben</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="100">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+     <date when="1792-04-10"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/104260106">Carl Freiesleben</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="101">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1792-04-14"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/104260106">Carl Freiesleben</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="102">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1792-04-20"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/104260106">Carl Freiesleben</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="103">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1792-04-21"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="104">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1792-05-11"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/104260106">Carl Freiesleben</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="105">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+
+     <date from="1792-05-11 " to="1792-06-04"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/104260106">Carl Freiesleben</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="106">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1792-05-17"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118518658">Joachim Heinrich Campe</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="107">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1792-06-04"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/104260106">Carl Freiesleben</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="108">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1792-06-04"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/104260106">Carl Freiesleben</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="109">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date from="1792-06-10 " to="1792-06-26"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/121016048">Christian August Siegfried Hoffmann</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="110">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+
+     <date from="1792-06-14 " to="1792-07-06"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/104260106">Carl Freiesleben</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="110a">
+    <correspAction type="sent">
+     <persName ref="http://edition-humboldt.de/H0000528">Bergwerks- und
+      Hütten-Departement</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1792-06-23"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="111">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+     <date when="1792-06-28"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/117151319">Paul Christian Wattenbach</persName>
+    </correspAction>
+
+   </correspDesc>
+            <correspDesc source="#ddc11d11-a0af-41aa-828c-f9c8613f76b2" key="112">
+    <correspAction type="sent">
+     <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+     <placeName>Jena </placeName>
+     <date when="1792-07-06"/>
+    </correspAction>
+    <correspAction type="received">
+     <persName ref="http://d-nb.info/gnd/104260106">Carl Freiesleben</persName>
+    </correspAction>
+
+   </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

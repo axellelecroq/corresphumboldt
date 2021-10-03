@@ -1,0 +1,68 @@
+.btn {
+    color: darkslategray;
+    background-color: white;
+    border-color: white;
+}
+
+.box {
+    position: relative;
+    box-sizing: border-box;
+    clear: both;
+    margin: 0 01em 0;
+    padding: 1em;
+    background-color: white;
+}
+
+.contentTop {
+    position: relative;
+    padding: 2em 0 1em 0;
+    min-height: 175px;
+    font-family: PTSans;
+    background-color: #AC4D00;
+    color: white;
+    margin-top: -25px
+}
+
+.contentBottom {
+    position: relative;
+    min-height: 45%;
+    padding: 1.5em 0 1em 0;
+}
+
+.contentColumn {
+    margin-left: 0.5em;
+    margin-right: 0.5em
+}
+
+.formInput {
+    display: block;
+    width: 12em;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .70rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out
+}
+
+.submitBtn {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.downloadBtn {
+    text-align: center;
+    vertical-align: middle;
+    margin-right: 1em;
+}
+
+.flashSuccessMessages {
+    font-size: 12px;
+    margin-left: auto;
+    margin-right: 30px;
+}
