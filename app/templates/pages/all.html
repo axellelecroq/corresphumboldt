@@ -5,7 +5,10 @@
     <br>
     <h1>CorrespHumboldt</h1>
     <div class="homeText">
-        <p>{{person}}</p>
+        {%for r in records%}
+        <p>
+            <a class="addNew" href={{r[ "identifier"][1]}} target="_blank">{{r["title"]}}</a></p>
+        {%endfor%}
     </div>
     <br/>
 </div>
