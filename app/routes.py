@@ -1,15 +1,7 @@
 from flask import render_template
-import json
 
-from .app import app, db
-
-
-"""
-/
-/toutes
-/chiffres
-/a_propos 
-"""
+from app.app import app, statics
+from .utils.generic import get_json
 
 
 @app.route("/")
@@ -31,6 +23,7 @@ def about():
     """
     return render_template("pages/about.html")
 
+
 @app.route("/all")
 def all_correspondents():
     """
@@ -41,3 +34,4 @@ def all_correspondents():
     all = db
     return render_template("pages/all.html", person = all)
 
+def search():
