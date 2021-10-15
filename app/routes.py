@@ -34,4 +34,12 @@ def all_correspondents():
     all = db
     return render_template("pages/all.html", person = all)
 
+@app.route("/search", methods=["GET", "POST"])
 def search():
+    """
+    Route permettant l'affichage de la page à propos
+    :return: template about.html
+    :rtype: template
+    """
+    data = get_json(statics + "/records.json")
+    return render_template("pages/search.html")

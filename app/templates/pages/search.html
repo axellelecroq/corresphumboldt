@@ -1,0 +1,54 @@
+{% extends 'container.html' %} {% block content %}
+
+<div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div class="container">
+        <h1>{%block title%}Search{%endblock title%}</h1>
+
+        <div style="margin-left:5em">
+            <form action="" method="GET">
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" id="basic-addon1">Name</span>
+                    </div>
+                    <input type="text" class="form-control" aria-label="name" aria-describedby="basic-addon1">
+                </div>
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" id="basic-addon1">Place</span>
+                    </div>
+                    <input type="text" class="form-control" aria-label="place" aria-describedby="basic-addon1">
+
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" id="basic-addon1">Date sent</span>
+                    </div>
+                    <input type="text" class="form-control" aria-label="date" aria-describedby="basic-addon1">
+                </div>
+            </form>
+        </div>
+
+        <br> {% if search == True%}
+        <p style="margin-left: 275px; "><i>Veuillez entrer un ou plusieurs éléments de recherche.</i></p>
+        {% elif results%}
+        <p>Voici les résultats correspondants à votre recherche:</p>
+        <ul>
+            {% for person in results %}
+            <li class="results ">
+                <a href="{{ url_for( 'person', person_id=person.id)}} ">{{person.name}}, <em>{{person.firstname}}</a></em>
+            </li>
+            {% endfor %} {% else %}
+            <br>
+            <br>
+            <p>Aucun résultat ne correspond à votre recherche.</p>
+
+            {% endif %}
+        </ul>
+    </div>
+</div>
+<br>
+<br>
+<br>
+<br> {% endblock content %} {% block script %} {% endblock script %}
