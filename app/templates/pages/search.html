@@ -31,9 +31,9 @@
         </div>
 
         <br> {% if search == True%}
-        <p style="margin-left: 275px; "><i>Veuillez entrer un ou plusieurs éléments de recherche.</i></p>
+        <p style="margin-left: 275px; "><i>Please enter one or more search items.</i></p>
         {% elif results%}
-        <p>Voici les résultats correspondants à votre recherche:</p>
+        <p>Results for your search:</p>
         <ul>
             {% for person in results %}
             <li class="results ">
@@ -42,7 +42,7 @@
             {% endfor %} {% else %}
             <br>
             <br>
-            <p>Aucun résultat ne correspond à votre recherche.</p>
+            <p>No result.</p>
 
             {% endif %}
         </ul>
