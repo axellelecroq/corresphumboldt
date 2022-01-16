@@ -1,4 +1,4 @@
-from flask import render_template
+from flask import render_template, request
 
 from app.app import app, statics
 from .utils.generic import get_json
@@ -24,18 +24,7 @@ def about():
     return render_template("pages/about.html")
 
 
-@app.route("/all")
-def all_correspondents():
-    """
-    Route permettant l'affichage de la page à propos
-    :return: template about.html
-    :rtype: template
-    """
-    data = get_json(statics + "/records.json")
-    return render_template("pages/all.html", records=data)
-
-
-@app.route("/search", methods=["GET", "POST"])
+@app.route("/search")
 def search():
     """
     Route permettant l'affichage de la page à propos
@@ -43,4 +32,11 @@ def search():
     :rtype: template
     """
     data = get_json(statics + "/records.json")
-    return render_template("pages/search.html")
+    search_list = [i for i in request.args.values()]
+    results = []
+
+    if "on" in search_list:
+        results = data
+
+    count_letters= len(results)
+    return render_template("pages/search.html", results=results, count=count_letters)

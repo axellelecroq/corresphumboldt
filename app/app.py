@@ -25,7 +25,7 @@ app = Flask("CorrespHumboldt", template_folder=templates, static_folder=statics)
 
 
 # Imports locaux
-from .routes import home, about, search, all_correspondents
+from .routes import home, about, search
 
 
 def config_app(config_name="test"):

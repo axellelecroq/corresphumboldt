@@ -6,59 +6,63 @@
     <br>
     <br>
     <div class="container">
-        <h1>Search</h1>
+        <h1>{%block title%}Search{%endblock title%}</h1>
 
         <div style="margin-left:5em">
-            <form action="" method="GET">
-                <div class="input-group mb-3">
-                    <div class="input-group-prepend">
-                        <span class="input-group-text" id="basic-addon1">Name</span>
-                    </div>
-                    <input type="text" class="form-control" aria-label="name" aria-describedby="basic-addon1">
-                </div>
-                <div class="input-group mb-3">
-                    <div class="input-group-prepend">
-                        <span class="input-group-text" id="basic-addon1">Place</span>
-                    </div>
-                    <input type="text" class="form-control" aria-label="place" aria-describedby="basic-addon1">
+            <form action="{{url_for('search')}}" method="GET">
 
-                    <div class="input-group-prepend">
-                        <span class="input-group-text" id="basic-addon1">Year</span>
+                <form action="" class="form-inline" method="GET">
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">Name</span>
+                        </div>
+                        <input type="text" class="form-control" name="name" aria-label="name">
                     </div>
-                    <input type="text" class="form-control" aria-label="date" aria-describedby="basic-addon1">
-                </div>
-                <div class="input-group mb-3">
-                    <div class="input-group-prepend">
-                        <label class="input-group-text" for="inputGroupSelect01">Stockholding institutions</label>
+
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">Place</span>
+                        </div>
+                        <input type="text" class="form-control" name="place" aria-label="place">
+
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">Year</span>
+                        </div>
+                        <input type="text" class="form-control" name="year" ria-label="year">
                     </div>
-                    <select class="custom-select" id="inputGroupSelect01">
+
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <label class="input-group-text" for="inputInstutitions">Stockholding institutions</label>
+                        </div>
+                        <select class="custom-select" id="inputInstutitions" name="instutition">
                       <option selected>Choose...</option>
                       <option value="1">BnF</option>
                       <option value="2">Kalliope</option>
                       <option value="3">Option3</option>
                     </select>
-                </div>
-                <div class="custom-control custom-checkbox my-1 mr-sm-2">
-                    <input type="checkbox" class="custom-control-input" id="customControlInline">
-                    <label class="custom-control-label" for="customControlInline">All letters from the database.</label>
-                </div>
-                <div>
-                    <button type="submit" class="btn input-group-text">Submit</button>
-                </div>
+                    </div>
+                    <div class="custom-control custom-checkbox my-1 mr-sm-2">
+                        <input type="checkbox" class="custom-control-input" id="customControlInline" name="all">
+                        <label class="custom-control-label" for="customControlInline">All letters from the database.</label>
+                    </div>
+                    <div>
+                        <button type="submit" class="btn input-group-text">Submit</button>
+                    </div>
+                </form>
 
-            </form>
+
         </div>
 
         <br> {% if search == True%}
         <p style="margin-left: 275px; "><i>Please enter one or more search items.</i></p>
         {% elif results%}
-        <p>Results for your search:</p>
+        <p>{{count}} results for your search:</p>
         <ul>
-            {% for person in results %}
-            <li class="results ">
-                <a href="{{ url_for( 'person', person_id=person.id)}} ">{{person.name}}, <em>{{person.firstname}}</a></em>
-            </li>
-            {% endfor %} {% else %}
+            {%for r in results%}
+            <p>
+                <a class="addNew" href={{r[ "identifier"][1]}} target="_blank">{{r["title"]}}</a></p>
+            {%endfor%} {% else %}
             <br>
             <br>
             <p>No result.</p>
