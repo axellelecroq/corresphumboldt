@@ -36,10 +36,11 @@
                             <label class="input-group-text" for="inputInstutitions">Stockholding institutions</label>
                         </div>
                         <select class="custom-select" id="inputInstutitions" name="instutition">
+                    
                       <option selected>Choose...</option>
-                      <option value="1">BnF</option>
-                      <option value="2">Kalliope</option>
-                      <option value="3">Option3</option>
+                      {%for i in institutions%}
+                      <option>{{i}}</option>
+                      {%endfor%}
                     </select>
                     </div>
                     <div class="custom-control custom-checkbox my-1 mr-sm-2">
