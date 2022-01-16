@@ -6,7 +6,7 @@
     <br>
     <br>
     <div class="container">
-        <h1>{%block title%}Search{%endblock title%}</h1>
+        <h1>Search</h1>
 
         <div style="margin-left:5em">
             <form action="" method="GET">
@@ -23,10 +23,29 @@
                     <input type="text" class="form-control" aria-label="place" aria-describedby="basic-addon1">
 
                     <div class="input-group-prepend">
-                        <span class="input-group-text" id="basic-addon1">Date sent</span>
+                        <span class="input-group-text" id="basic-addon1">Year</span>
                     </div>
                     <input type="text" class="form-control" aria-label="date" aria-describedby="basic-addon1">
                 </div>
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <label class="input-group-text" for="inputGroupSelect01">Stockholding institutions</label>
+                    </div>
+                    <select class="custom-select" id="inputGroupSelect01">
+                      <option selected>Choose...</option>
+                      <option value="1">BnF</option>
+                      <option value="2">Kalliope</option>
+                      <option value="3">Option3</option>
+                    </select>
+                </div>
+                <div class="custom-control custom-checkbox my-1 mr-sm-2">
+                    <input type="checkbox" class="custom-control-input" id="customControlInline">
+                    <label class="custom-control-label" for="customControlInline">All letters from the database.</label>
+                </div>
+                <div>
+                    <button type="submit" class="btn input-group-text">Submit</button>
+                </div>
+
             </form>
         </div>
 

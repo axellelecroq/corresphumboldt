@@ -90,7 +90,7 @@
     }
     
     p {
-        margin-top: 0;
+        margin-left: 5em;
         margin-bottom: 1rem
     }
     
@@ -385,7 +385,7 @@
     .h1,
     h1 {
         font-size: 2rem;
-        margin: 2em 0 0 0em;
+        margin-left: 2.5em;
         position: relative
     }
     
